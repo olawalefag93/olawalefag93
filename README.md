@@ -1,4 +1,4 @@
-# Olawale Fagbohun
+# Olawale Fagade
 
 I build practical software across AI automation, cybersecurity tooling, and full-stack product engineering.
 
