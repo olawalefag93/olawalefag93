@@ -35,11 +35,12 @@ An AI-assisted lead generation project focused on automating research and outrea
 
 Repository: [LeadGenGPT](https://github.com/olawalefag93/LeadGenGPT)
 
-## Active Projects
+## Currently Building
 
 These are private or in-progress projects that I am still actively building and refining before making them fully public.
 
-- Muvtrak - full-stack tracking and operations product
+- [Muvtrak](https://muvtrak.com) - full-stack tracking and operations product
+- [BuiltNBot](https://builtnbot.com) - product currently in active development
 - GenesysOS - AI/productivity system with web, API, and infrastructure components
 - Soccer Pals - sports-focused app project
 - SprayPay - payment or finance-focused product project
@@ -65,6 +66,6 @@ I use this GitHub to show practical project work, learning, and experimentation.
 ## Contact
 
 - GitHub: [github.com/olawalefag93](https://github.com/olawalefag93)
-- LinkedIn: Add LinkedIn URL
-- Portfolio: Add portfolio URL
-
+- LinkedIn: [linkedin.com/in/olawale-fagade](https://linkedin.com/in/olawale-fagade)
+- Muvtrak: [muvtrak.com](https://muvtrak.com)
+- BuiltNBot: [builtnbot.com](https://builtnbot.com)
