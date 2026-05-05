@@ -1,67 +1,65 @@
-# Olawale Fagade
+<div align="center">
 
-I build practical software across AI automation, cybersecurity tooling, and full-stack product engineering.
+# Hi, I'm Olawale Fagade
 
-My work is focused on turning useful ideas into working systems: APIs, automation workflows, AI assistants, security tools, and applications that solve real problems.
+### AI Automation Builder | Cybersecurity Learner | Full-Stack Product Developer
 
-## Featured Work
+I build practical software that turns messy workflows into useful products: AI assistants, automation APIs, cybersecurity tools, and full-stack apps.
 
-### Personal AI Assistant
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olawale%20Fagade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olawale-fagade)
+[![GitHub](https://img.shields.io/badge/GitHub-olawalefag93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olawalefag93)
+[![Muvtrak](https://img.shields.io/badge/Muvtrak-Live%20Project-16A34A?style=for-the-badge)](https://muvtrak.com)
+[![BuiltNBot](https://img.shields.io/badge/BuiltNBot-Live%20Project-2563EB?style=for-the-badge)](https://builtnbot.com)
 
-A local AI assistant with RAG, session memory, tool calling, and a FastAPI backend.
+</div>
 
-- FastAPI backend with structured endpoints
-- SQLite-backed conversation memory
-- ChromaDB vector search for local knowledge retrieval
-- Tool-calling architecture for extensible automation
-- Privacy-focused local storage design
+---
 
-Repository: [Personal-ai-assistant](https://github.com/olawalefag93/Personal-ai-assistant)
+## What I Build
 
-### Weather Automation API
+- AI assistants with memory, retrieval, and tool calling
+- Backend APIs for automation and decision systems
+- Full-stack web and mobile product prototypes
+- Cybersecurity tooling, notes, and lab workflows
+- Docker-based local development and deployment setups
 
-A FastAPI service that uses live weather data and rule-based logic to recommend automation actions.
+## Tech Stack
 
-- Weather API integration
-- Rule engine for action decisions
-- Clean JSON API responses
-- Environment-based configuration
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Repository: [weather-automation-api](https://github.com/olawalefag93/weather-automation-api)
+## Featured Projects
 
-### LeadGenGPT
-
-An AI-assisted lead generation project focused on automating research and outreach workflows.
-
-Repository: [LeadGenGPT](https://github.com/olawalefag93/LeadGenGPT)
+| Project | What It Shows | Stack |
+|---|---|---|
+| [Personal AI Assistant](https://github.com/olawalefag93/Personal-ai-assistant) | Local AI assistant with RAG, session memory, and tool calling | FastAPI, OpenAI, ChromaDB, SQLite |
+| [Weather Automation API](https://github.com/olawalefag93/weather-automation-api) | API that turns live weather data into automation decisions | Python, FastAPI |
+| [LeadGenGPT](https://github.com/olawalefag93/LeadGenGPT) | AI-assisted lead generation and outreach workflow | AI automation |
 
 ## Currently Building
 
-These are private or in-progress projects that I am still actively building and refining before making them fully public.
+| Project | Status | Link |
+|---|---|---|
+| Muvtrak | Live product, private repo in active development | [muvtrak.com](https://muvtrak.com) |
+| BuiltNBot | Live product, private repo in active development | [builtnbot.com](https://builtnbot.com) |
+| GenesysOS | Private AI/productivity system | Case study planned |
+| Soccer Pals | Private sports-focused app project | Case study planned |
+| SprayPay | Private finance/payment product project | Case study planned |
+| Aria Agent | Private agent-focused automation project | Case study planned |
 
-- [Muvtrak](https://muvtrak.com) - full-stack tracking and operations product
-- [BuiltNBot](https://builtnbot.com) - product currently in active development
-- GenesysOS - AI/productivity system with web, API, and infrastructure components
-- Soccer Pals - sports-focused app project
-- SprayPay - payment or finance-focused product project
-- Aria Agent - agent-focused automation project
+## Portfolio Direction
 
-## Areas I Work In
-
-- AI assistants and automation
-- Retrieval-augmented generation
-- API design and backend systems
-- Full-stack web and mobile apps
-- Cybersecurity tooling and security research
-- Docker-based development and deployment
-
-## Tools And Technologies
-
-Python, FastAPI, TypeScript, React, Next.js, Expo, Node.js, Docker, SQLite, Postgres, ChromaDB, OpenAI APIs, GitHub, Linux.
-
-## GitHub Portfolio Direction
-
-I use this GitHub to show practical project work, learning, and experimentation. Some repositories are original projects, while others are forks, notes, or security research references. The pinned repositories are the best place to start.
+My GitHub includes original projects, active product work, learning notes, cybersecurity references, and experiments. The pinned repositories are the best starting point for employer review.
 
 ## Contact
 
@@ -69,3 +67,4 @@ I use this GitHub to show practical project work, learning, and experimentation.
 - LinkedIn: [linkedin.com/in/olawale-fagade](https://linkedin.com/in/olawale-fagade)
 - Muvtrak: [muvtrak.com](https://muvtrak.com)
 - BuiltNBot: [builtnbot.com](https://builtnbot.com)
+
