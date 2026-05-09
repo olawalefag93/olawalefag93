@@ -23,11 +23,6 @@ I build practical software that turns messy workflows into useful products: AI a
 - Cybersecurity tooling, notes, and lab workflows
 - Docker-based local development and deployment setups
 
-## Featured Cybersecurity Lab
-
-**[NIST Hacking Case DFIR Lab](https://github.com/olawalefag93/dfir-nist-hacking-case)**  
-Digital forensics case study built around the NIST hacking case. It includes an investigator-style report, attack timeline, methodology notes, and evidence documentation for HR or security teams reviewing my cybersecurity work.
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
