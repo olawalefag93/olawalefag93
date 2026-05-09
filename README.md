@@ -42,6 +42,7 @@ I build practical software that turns messy workflows into useful products: AI a
 
 | Project | What It Shows | Stack |
 |---|---|---|
+| [NIST Hacking Case DFIR Lab](https://github.com/olawalefag93/dfir-nist-hacking-case) | Digital forensics case report with attack timeline, evidence notes, and investigator-ready documentation | DFIR, timeline analysis, incident reporting |
 | [Personal AI Assistant](https://github.com/olawalefag93/Personal-ai-assistant) | Local AI assistant with RAG, session memory, and tool calling | FastAPI, OpenAI, ChromaDB, SQLite |
 | [Weather Automation API](https://github.com/olawalefag93/weather-automation-api) | API that turns live weather data into automation decisions | Python, FastAPI |
 | [LeadGenGPT](https://github.com/olawalefag93/LeadGenGPT) | AI-assisted lead generation and outreach workflow | AI automation |
@@ -67,4 +68,3 @@ My GitHub includes original projects, active product work, learning notes, cyber
 - LinkedIn: [linkedin.com/in/olawale-fagade](https://linkedin.com/in/olawale-fagade)
 - Muvtrak: [muvtrak.com](https://muvtrak.com)
 - BuiltNBot: [builtnbot.com](https://builtnbot.com)
-
