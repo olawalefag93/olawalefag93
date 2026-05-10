@@ -30,7 +30,7 @@ Hands-on digital forensics and incident response work using industry-standard to
 - ✅ Phase 2 — Live Triage (KAPE, artifact collection and parsing)
 - ✅ Phase 3 — Network Forensics (Wireshark, PCAP analysis)
 - ✅ Phase 4 — Log Analysis & SIEM (Splunk, SPL, Windows Event IDs)
-- ⬜ Phase 5 — MITRE ATT&CK Mapping
+- ✅ Phase 5 — MITRE ATT&CK Mapping
 - ⬜ Phase 6 — Threat Hunting (Velociraptor, EDR)
 - ⬜ Phase 7 — Python/PowerShell Automation
 - ⬜ Phase 8 — Full IR Simulation & Report
