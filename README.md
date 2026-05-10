@@ -2,9 +2,9 @@
 
 # Hi, I'm Olawale Fagade
 
-### AI Automation Builder | Cybersecurity Learner | Full-Stack Product Developer
+### Incident Response & DFIR | AI Automation Builder | Full-Stack Product Developer
 
-I build practical software that turns messy workflows into useful products: AI assistants, automation APIs, cybersecurity tools, and full-stack apps.
+I investigate breaches, triage live systems, and build practical software — from forensic case reports to AI assistants and full-stack products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olawale%20Fagade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olawale-fagade)
 [![GitHub](https://img.shields.io/badge/GitHub-olawalefag93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olawalefag93)
@@ -15,13 +15,34 @@ I build practical software that turns messy workflows into useful products: AI a
 
 ---
 
+## 🔍 DFIR & Incident Response Labs
+
+Hands-on digital forensics and incident response work using industry-standard tools and methodologies.
+
+| Lab | What It Covers | Tools |
+|---|---|---|
+| [NIST Hacking Case — Disk Forensics](https://github.com/olawalefag93/dfir-nist-hacking-case) | Full disk forensic investigation of a Windows XP hacking platform — suspect identity attribution, hacking toolkit analysis, anti-forensic detection, attack timeline reconstruction | Autopsy, FTK Imager, EZ Tools |
+| [KAPE Live Triage Lab](https://github.com/olawalefag93/kape-dfir-lab) | Live system triage on Windows 11 — artifact collection, automated parsing with 18 EZ Tools processors, Amcache analysis, PowerShell event log forensics, chain of custody documentation | KAPE, gkape, !BasicCollection, !EZParser |
+
+**Current DFIR learning path:**
+- ✅ Phase 1 — Windows Disk Forensics (Autopsy, FTK Imager, EZ Tools)
+- ✅ Phase 2 — Live Triage (KAPE, artifact collection and parsing)
+- 🔄 Phase 3 — Network Forensics (Wireshark, PCAP analysis)
+- ⬜ Phase 4 — Log Analysis & SIEM (Splunk)
+- ⬜ Phase 5 — MITRE ATT&CK Mapping
+- ⬜ Phase 6 — Threat Hunting (Velociraptor, EDR)
+- ⬜ Phase 7 — Python/PowerShell Automation
+- ⬜ Phase 8 — Full IR Simulation & Report
+
+---
+
 ## What I Build
 
+- Digital forensics investigations and IR case reports
 - AI assistants with memory, retrieval, and tool calling
 - Backend APIs for automation and decision systems
 - Full-stack web and mobile product prototypes
 - Cybersecurity tooling, notes, and lab workflows
-- Docker-based local development and deployment setups
 
 ## Tech Stack
 
@@ -38,14 +59,18 @@ I build practical software that turns messy workflows into useful products: AI a
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
 ## Featured Projects
 
 | Project | What It Shows | Stack |
 |---|---|---|
-| [NIST Hacking Case DFIR Lab](https://github.com/olawalefag93/dfir-nist-hacking-case) | Digital forensics case report with attack timeline, evidence notes, and investigator-ready documentation | DFIR, timeline analysis, incident reporting |
+| [NIST Hacking Case DFIR Lab](https://github.com/olawalefag93/dfir-nist-hacking-case) | Full disk forensics investigation — suspect attribution, hacking toolkit, anti-forensics, attack timeline | Autopsy, FTK Imager, EZ Tools |
+| [KAPE Live Triage Lab](https://github.com/olawalefag93/kape-dfir-lab) | Live system triage — 827 artifacts collected, 18 EZ Tools parsers, Amcache + Event Log analysis | KAPE, gkape, !EZParser |
 | [Personal AI Assistant](https://github.com/olawalefag93/Personal-ai-assistant) | Local AI assistant with RAG, session memory, and tool calling | FastAPI, OpenAI, ChromaDB, SQLite |
 | [Weather Automation API](https://github.com/olawalefag93/weather-automation-api) | API that turns live weather data into automation decisions | Python, FastAPI |
-| [LeadGenGPT](https://github.com/olawalefag93/LeadGenGPT) | AI-assisted lead generation and outreach workflow | AI automation |
+
+---
 
 ## Currently Building
 
@@ -58,9 +83,7 @@ I build practical software that turns messy workflows into useful products: AI a
 | SprayPay | Private finance/payment product project | Case study planned |
 | Aria Agent | Private agent-focused automation project | Case study planned |
 
-## Portfolio Direction
-
-My GitHub includes original projects, active product work, learning notes, cybersecurity references, and experiments. The pinned repositories are the best starting point for employer review.
+---
 
 ## Contact
 
