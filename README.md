@@ -23,12 +23,13 @@ Hands-on digital forensics and incident response work using industry-standard to
 |---|---|---|
 | [NIST Hacking Case — Disk Forensics](https://github.com/olawalefag93/dfir-nist-hacking-case) | Full disk forensic investigation of a Windows XP hacking platform — suspect identity attribution, hacking toolkit analysis, anti-forensic detection, attack timeline reconstruction | Autopsy, FTK Imager, EZ Tools |
 | [KAPE Live Triage Lab](https://github.com/olawalefag93/kape-dfir-lab) | Live system triage on Windows 11 — artifact collection, automated parsing with 18 EZ Tools processors, Amcache analysis, PowerShell event log forensics, chain of custody documentation | KAPE, gkape, !BasicCollection, !EZParser |
+| [Splunk SIEM Lab — APT Investigation](https://github.com/olawalefag93/splunk-dfir-lab) | Full SIEM-based incident investigation — Windows Security Event Log analysis, SPL threat hunting, full kill chain reconstruction from initial RDP access through DCSync, data exfiltration, and anti-forensic cleanup | Splunk Enterprise, SPL, Windows Event IDs |
 
 **Current DFIR learning path:**
 - ✅ Phase 1 — Windows Disk Forensics (Autopsy, FTK Imager, EZ Tools)
 - ✅ Phase 2 — Live Triage (KAPE, artifact collection and parsing)
-- 🔄 Phase 3 — Network Forensics (Wireshark, PCAP analysis)
-- ⬜ Phase 4 — Log Analysis & SIEM (Splunk)
+- ✅ Phase 3 — Network Forensics (Wireshark, PCAP analysis)
+- ✅ Phase 4 — Log Analysis & SIEM (Splunk, SPL, Windows Event IDs)
 - ⬜ Phase 5 — MITRE ATT&CK Mapping
 - ⬜ Phase 6 — Threat Hunting (Velociraptor, EDR)
 - ⬜ Phase 7 — Python/PowerShell Automation
@@ -67,6 +68,7 @@ Hands-on digital forensics and incident response work using industry-standard to
 |---|---|---|
 | [NIST Hacking Case DFIR Lab](https://github.com/olawalefag93/dfir-nist-hacking-case) | Full disk forensics investigation — suspect attribution, hacking toolkit, anti-forensics, attack timeline | Autopsy, FTK Imager, EZ Tools |
 | [KAPE Live Triage Lab](https://github.com/olawalefag93/kape-dfir-lab) | Live system triage — 827 artifacts collected, 18 EZ Tools parsers, Amcache + Event Log analysis | KAPE, gkape, !EZParser |
+| [Splunk SIEM Lab](https://github.com/olawalefag93/splunk-dfir-lab) | APT attack investigation — full kill chain via SPL queries, DCSync detection, Pass-the-Hash, anti-forensics | Splunk Enterprise, SPL |
 | [Personal AI Assistant](https://github.com/olawalefag93/Personal-ai-assistant) | Local AI assistant with RAG, session memory, and tool calling | FastAPI, OpenAI, ChromaDB, SQLite |
 | [Weather Automation API](https://github.com/olawalefag93/weather-automation-api) | API that turns live weather data into automation decisions | Python, FastAPI |
 
